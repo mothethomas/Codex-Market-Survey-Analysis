@@ -1,5 +1,5 @@
 # Codex-Market-Survey-Analysis
-# CodeX Beverage Company Survey Analysis
+
 
 ## Project Overview
 This project analyzes survey results from 10,000 respondents in 10 cities in India. The goal is to provide meaningful insights and recommendations based on consumer behavior, feedback on energy drinks, pricing, packaging, and other factors.
