@@ -95,6 +95,7 @@ This project analyzes survey results from 10,000 respondents in 10 cities in Ind
 - 40% of consumers do not expect a change in the packaging while 39% of consumers are open to trying the Limited Edition Packaging.
 
 -![Purchase Behaviour](https://github.com/mothethomas/Codex-Market-Survey-Analysis/blob/main/purchasing_behaviour.jpg) 
+![Codex Performance](https://github.com/mothethomas/Codex-Market-Survey-Analysis/blob/main/Codex_performance.jpg)
 
 ### 7. Product Development
 **a. Which area of business should we focus more on for our product development? (Branding/taste/availability)**
